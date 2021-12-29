@@ -1,0 +1,16 @@
+D:\MVS Program\Csharp\Pratikler\VSCode\Degiskenler\bin\Debug\net5.0\Degiskenler.exe
+D:\MVS Program\Csharp\Pratikler\VSCode\Degiskenler\bin\Debug\net5.0\Degiskenler.deps.json
+D:\MVS Program\Csharp\Pratikler\VSCode\Degiskenler\bin\Debug\net5.0\Degiskenler.runtimeconfig.json
+D:\MVS Program\Csharp\Pratikler\VSCode\Degiskenler\bin\Debug\net5.0\Degiskenler.runtimeconfig.dev.json
+D:\MVS Program\Csharp\Pratikler\VSCode\Degiskenler\bin\Debug\net5.0\Degiskenler.dll
+D:\MVS Program\Csharp\Pratikler\VSCode\Degiskenler\bin\Debug\net5.0\ref\Degiskenler.dll
+D:\MVS Program\Csharp\Pratikler\VSCode\Degiskenler\bin\Debug\net5.0\Degiskenler.pdb
+D:\MVS Program\Csharp\Pratikler\VSCode\Degiskenler\obj\Debug\net5.0\Degiskenler.csproj.AssemblyReference.cache
+D:\MVS Program\Csharp\Pratikler\VSCode\Degiskenler\obj\Debug\net5.0\Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVS Program\Csharp\Pratikler\VSCode\Degiskenler\obj\Debug\net5.0\Degiskenler.AssemblyInfoInputs.cache
+D:\MVS Program\Csharp\Pratikler\VSCode\Degiskenler\obj\Debug\net5.0\Degiskenler.AssemblyInfo.cs
+D:\MVS Program\Csharp\Pratikler\VSCode\Degiskenler\obj\Debug\net5.0\Degiskenler.csproj.CoreCompileInputs.cache
+D:\MVS Program\Csharp\Pratikler\VSCode\Degiskenler\obj\Debug\net5.0\Degiskenler.dll
+D:\MVS Program\Csharp\Pratikler\VSCode\Degiskenler\obj\Debug\net5.0\ref\Degiskenler.dll
+D:\MVS Program\Csharp\Pratikler\VSCode\Degiskenler\obj\Debug\net5.0\Degiskenler.pdb
+D:\MVS Program\Csharp\Pratikler\VSCode\Degiskenler\obj\Debug\net5.0\Degiskenler.genruntimeconfig.cache
